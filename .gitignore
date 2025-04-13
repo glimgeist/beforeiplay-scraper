@@ -1,0 +1,11 @@
+# Python
+__pycache__/
+*.pyc
+
+# Output folders
+output/
+scraped_games/
+
+# Environment & tools
+.env
+.scrapy/
