@@ -14,7 +14,7 @@ A command-line Python tool that scrapes game pages from [beforeiplay.com](https:
 
 1. Clone this repo:
    ```bash
-   git clone https://github.com/yourusername/beforeiplay-scraper.git
+   git clone https://github.com/glimgeist/beforeiplay-scraper
    cd beforeiplay-scraper
    ```
 
